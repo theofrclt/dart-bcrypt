@@ -1,3 +1,7 @@
+## 1.1.4
+
+- Support Dart 3.10
+
 ## 1.1.3
 
 - Update readme.
